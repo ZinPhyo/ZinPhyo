@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Fintech**
 
-- 🌱 I’m currently learning **Blazor, Design Pattern**
+- 🌱 I’m currently learning **AWS Cloud Computing, System Design**
 
 - 📫 How to reach me **zinaungphyo.zap93@gmail.com**
 
