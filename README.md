@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zin phyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zin phyo" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/zin phyo](https://www.linkedin.com/in/zin-phyo-b5a506135/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zin phyo" height="30" width="40" /></a>
 <a href="https://fb.com/zin aung phyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zin aung phyo" height="30" width="40" /></a>
 </p>
 
